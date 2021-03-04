@@ -1,0 +1,11 @@
+<directory name="kiwi-templates-JeOS" rev="6b902638bdbd5d0aca68e818634baa2e" srcmd5="6b902638bdbd5d0aca68e818634baa2e">
+  <linkinfo baserev="637e28064ea5747d54b6fe4fe29d8375" lsrcmd5="0a370ae79a5753dc9a6657e7e3901f9d" package="kiwi-templates-JeOS" project="openSUSE:Leap:15.2:Update" srcmd5="637e28064ea5747d54b6fe4fe29d8375" />
+  <entry md5="7c6fc9c73ba241d28d3e81acc9cae302" mtime="1593084553" name="JeOS.kiwi" size="12843" />
+  <entry md5="dd56cf2476a0641019bd082e9aff122f" mtime="1567499124" name="LICENSE" size="1023" />
+  <entry md5="8159ca9f430925d698c917167f1094d0" mtime="1567499125" name="_constraints" size="132" />
+  <entry md5="d3c26feeac0bf830da7d4e1e61707fa0" mtime="1584022531" name="_multibuild" size="179" />
+  <entry md5="552cab08f37712f1f2ad714d4b05b990" mtime="1587032709" name="config.sh" size="6496" />
+  <entry md5="2d4abfcca1886e874174efb160183511" mtime="1575387603" name="editbootinstall_rpi.sh" size="1042" />
+  <entry md5="169794531cc43c8eab39fb0a1de8a63f" mtime="1593084553" name="kiwi-templates-JeOS.changes" size="20825" />
+  <entry md5="5e49029366df0819965a0c1342ff0ec3" mtime="1585047368" name="kiwi-templates-JeOS.spec" size="1632" />
+</directory>

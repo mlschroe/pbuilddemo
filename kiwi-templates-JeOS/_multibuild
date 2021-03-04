@@ -1,0 +1,4 @@
+<multibuild>
+  <flavor>kvm-and-xen</flavor>
+  <flavor>RaspberryPi</flavor>
+</multibuild>
